@@ -7,7 +7,6 @@
 #include "global.h"
 #include "QLogger.h"
 #include "SplashScreen.h"
-#include "Pref.h"
 #include "SaisiePwd.h"
 
 const QString SplashScreen::pwd = QString("RallyPointA2P2014");
